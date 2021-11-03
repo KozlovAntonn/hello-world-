@@ -6,3 +6,5 @@ def function_one():
     for x in list:
         print(x)
         time.sleep(1)
+
+function_one()
